@@ -1,2 +1,2 @@
-# Aplikasi-Investasi1
+# Aplikasi-Investasi
 Ujian Lab Profesional Tahap III
